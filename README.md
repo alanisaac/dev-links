@@ -1,6 +1,10 @@
 # Dev Links
 Lists of good content in software development, organized by topic
 
+## Agile Software Development
+- [The LAFABLE Framework (a parody)](http://www.lafable.com/)
+- [Agile is Dead (Dave Thomas)](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+
 ## Code Style
 - [Better Boolean Variable Names](https://www.samanthaming.com/tidbits/34-better-boolean-variable-names/)
 - [7 Popular Unit Test Naming Conventions](https://dzone.com/articles/7-popular-unit-test-naming)
