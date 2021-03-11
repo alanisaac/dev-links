@@ -35,10 +35,16 @@ Lists of good content in software development, organized by topic
   - [Testing Strategies in a Microservice Architecture (Thoughtworks)](https://martinfowler.com/articles/microservice-testing/)
 - [Microservices: Dependencies and Data Sharing (Auth0)](https://auth0.com/blog/introduction-to-microservices-part-4-dependencies/)
 - [Microservice Architecture at Medium (Medium Engineering)](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
+- [CAP Theorem, PACELC, and Microservices (Ardalis)](https://ardalis.com/cap-pacelc-and-microservices/)
 
 ## Observability
 - [Observability: a 3-Year Retrospective (Charity Majors)](https://thenewstack.io/observability-a-3-year-retrospective/)
+- [I Test In Production and So Do You (Charity Majors)](https://www.infoq.com/presentations/testing-production-2018/)
 - [Monitoring and Observability (Cindy Sridharan)](https://copyconstruct.medium.com/monitoring-and-observability-8417d1952e1c)
+
+## REST API Design
+- [Web API Design: The Missing Link (Apigee)](https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf)
+- [Web API design (Microsoft)](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ## Software Architecture
 - [Software Architecture with Stefan Tilkov (CaSE podcast)](https://www.case-podcast.org/4-software-architecture)
