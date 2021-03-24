@@ -45,6 +45,10 @@ Lists of good content in software development, organized by topic
 ## REST API Design
 - [Web API Design: The Missing Link (Apigee)](https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf)
 - [Web API design (Microsoft)](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [The Secret to Amazon's Success: Internal APIs](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/)
+
+## Security
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org)
 
 ## Software Architecture
 - [Software Architecture with Stefan Tilkov (CaSE podcast)](https://www.case-podcast.org/4-software-architecture)
