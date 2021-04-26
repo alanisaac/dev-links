@@ -14,7 +14,7 @@ Lists of good content in software development, organized by topic
 - [7 Popular Unit Test Naming Conventions](https://dzone.com/articles/7-popular-unit-test-naming)
 - [Google Style Guides (Google)](https://google.github.io/styleguide/)
 
-## Data Processing
+## Data Engineering
 - [The World Beyond Batch: Streaming 101 (O'Reilly)](https://www.oreilly.com/radar/the-world-beyond-batch-streaming-101/)
 - [Streams and Tables in Apache Kafka (Confluent)](https://www.confluent.io/blog/kafka-streams-tables-part-1-event-streaming/)
 
