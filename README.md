@@ -33,6 +33,9 @@ Lists of good content in software development, organized by topic
 - [Microsoft C# Coding Conventions (Microsoft)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 - [There Is No Thread (Stephen Cleary)](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
 
+### Python
+- [Idiomatic Python: EAFP versus LBYL (Microsoft)](https://devblogs.microsoft.com/python/idiomatic-python-eafp-versus-lbyl/)
+
 ## Microservices
 - [Microservices Guide (Thoughtworks)](https://martinfowler.com/microservices/)
   - [Micro-frontends (Thoughtworks)](https://martinfowler.com/articles/micro-frontends.html)
