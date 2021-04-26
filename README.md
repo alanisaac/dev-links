@@ -5,6 +5,10 @@ Lists of good content in software development, organized by topic
 - [The LAFABLE Framework (a parody)](http://www.lafable.com/)
 - [Agile is Dead (Dave Thomas)](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 
+## Code Reviews
+- [Best Practices for Peer Code Review (SmartBear)](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
+- [We are Ruthless on code reviews (Workivia)](https://www.workiva.com/careers/workiva-life-blog/we-are-ruthless-code-reviews)
+
 ## Code Style
 - [Better Boolean Variable Names](https://www.samanthaming.com/tidbits/34-better-boolean-variable-names/)
 - [7 Popular Unit Test Naming Conventions](https://dzone.com/articles/7-popular-unit-test-naming)
