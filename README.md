@@ -37,6 +37,7 @@ Lists of good content in software development, organized by topic
 - [Idiomatic Python: EAFP versus LBYL (Microsoft)](https://devblogs.microsoft.com/python/idiomatic-python-eafp-versus-lbyl/)
 
 ## Microservices
+- [The Twelve-Factor App (Adam Wiggins, et al.)](https://12factor.net/)
 - [Microservices Guide (Thoughtworks)](https://martinfowler.com/microservices/)
   - [Micro-frontends (Thoughtworks)](https://martinfowler.com/articles/micro-frontends.html)
   - [Testing Strategies in a Microservice Architecture (Thoughtworks)](https://martinfowler.com/articles/microservice-testing/)
