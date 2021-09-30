@@ -22,6 +22,9 @@ Lists of good content in software development, organized by topic
 - [When to use a DI Container (Mark Seeman)](https://blog.ploeh.dk/2012/11/06/WhentouseaDIContainer/)
 - [The Register Resolve Release Pattern (Mark Seeman)](https://blog.ploeh.dk/2010/09/29/TheRegisterResolveReleasepattern/)
 
+## Developer Experience
+- [Platform Prerequisites (Martin Fowler)](https://martinfowler.com/articles/platform-prerequisites.html)
+
 ## Kubernetes & Cloud-Native
 - [The Container Is A Lie](https://platform.sh/blog/2020/the-container-is-a-lie/)
 - [OpenFaaS Cloud + Linkerd: A Secure, Multi-Tenant Serverless Platform (Charles Pretzer & Alex Ellis)](https://www.youtube.com/watch?v=sD7hCwq3Gw0)
