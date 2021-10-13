@@ -4,6 +4,7 @@ Lists of good content in software development, organized by topic
 ## Agile Software Development
 - [The LAFABLE Framework (a parody)](http://www.lafable.com/)
 - [Agile is Dead (Dave Thomas)](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+- [Scrum or Kanban: Yes (Shift314)](https://shift314.com/scrum-or-kanban-yes/)
 
 ## Code Reviews
 - [Best Practices for Peer Code Review (SmartBear)](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
