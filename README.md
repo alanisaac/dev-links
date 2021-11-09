@@ -18,7 +18,7 @@ Lists of good content in software development, organized by topic
 ## Data Engineering
 - [The World Beyond Batch: Streaming 101 (O'Reilly)](https://www.oreilly.com/radar/the-world-beyond-batch-streaming-101/)
 - [Streams and Tables in Apache Kafka (Confluent)](https://www.confluent.io/blog/kafka-streams-tables-part-1-event-streaming/)
-- [Designing Data Intensive Application (Martin Kleppmann)](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- [Designing Data Intensive Applications (Martin Kleppmann)](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 
 ## Dependency Injection
 - [When to use a DI Container (Mark Seeman)](https://blog.ploeh.dk/2012/11/06/WhentouseaDIContainer/)
