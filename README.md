@@ -67,3 +67,4 @@ Lists of good content in software development, organized by topic
 - [Software Architecture with Stefan Tilkov (CaSE podcast)](https://www.case-podcast.org/4-software-architecture)
 - [Why Software Architects Fail and What To Do About It (Craft ft. Stefan Tilkov)](https://www.youtube.com/watch?v=AkYDsiRVqno)
 - [Software Architecture Anti-patterns (Sourcemaking)](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
+- [Choose Boring Technology (Dan McKinley)](https://mcfunley.com/choose-boring-technology)
