@@ -27,6 +27,9 @@ Lists of good content in software development, organized by topic
 ## Developer Experience
 - [Platform Prerequisites (Martin Fowler)](https://martinfowler.com/articles/platform-prerequisites.html)
 
+## Hiring
+- [Hiring: The Lake Wobegon Strategy (Google)](https://ai.googleblog.com/2006/03/hiring-lake-wobegon-strategy.html)
+
 ## Kubernetes & Cloud-Native
 - [The Container Is A Lie](https://platform.sh/blog/2020/the-container-is-a-lie/)
 - [OpenFaaS Cloud + Linkerd: A Secure, Multi-Tenant Serverless Platform (Charles Pretzer & Alex Ellis)](https://www.youtube.com/watch?v=sD7hCwq3Gw0)
