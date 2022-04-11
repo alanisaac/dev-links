@@ -66,6 +66,9 @@ Lists of good content in software development, organized by topic
 ## Security
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org)
 
+## Site Reliability Engineering
+- [Making the most of an SRE service takeover (GCP)](https://cloud.google.com/blog/products/gcp/making-the-most-of-an-sre-service-takeover-cre-life-lessons)
+
 ## Software Architecture
 - [Software Architecture with Stefan Tilkov (CaSE podcast)](https://www.case-podcast.org/4-software-architecture)
 - [Why Software Architects Fail and What To Do About It (Craft ft. Stefan Tilkov)](https://www.youtube.com/watch?v=AkYDsiRVqno)
