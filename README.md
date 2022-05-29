@@ -43,6 +43,7 @@ Lists of good content in software development, organized by topic
 
 ### Python
 - [Idiomatic Python: EAFP versus LBYL (Microsoft)](https://devblogs.microsoft.com/python/idiomatic-python-eafp-versus-lbyl/)
+- [The Big List of Python Packaging and Distribution Tools (Chad Smith)](https://chadsmith.dev/python-packaging/)
 
 ## Microservices
 - [The Twelve-Factor App (Adam Wiggins, et al.)](https://12factor.net/)
