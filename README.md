@@ -76,3 +76,4 @@ Lists of good content in software development, organized by topic
 - [Why Software Architects Fail and What To Do About It (Craft ft. Stefan Tilkov)](https://www.youtube.com/watch?v=AkYDsiRVqno)
 - [Software Architecture Anti-patterns (Sourcemaking)](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
 - [Choose Boring Technology (Dan McKinley)](https://mcfunley.com/choose-boring-technology)
+- [Documenting Architecture Decisions (Cognitect)](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
