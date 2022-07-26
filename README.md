@@ -52,6 +52,7 @@ Lists of good content in software development, organized by topic
   - [Micro-frontends (Thoughtworks)](https://martinfowler.com/articles/micro-frontends.html)
   - [Testing Strategies in a Microservice Architecture (Thoughtworks)](https://martinfowler.com/articles/microservice-testing/)
 - [Microservices: Dependencies and Data Sharing (Auth0)](https://auth0.com/blog/introduction-to-microservices-part-4-dependencies/)
+- [Monolith to Microservices (Sam Newman)](https://samnewman.io/books/monolith-to-microservices/)
 - [Microservice Architecture at Medium (Medium Engineering)](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 - [CAP Theorem, PACELC, and Microservices (Ardalis)](https://ardalis.com/cap-pacelc-and-microservices/)
 
