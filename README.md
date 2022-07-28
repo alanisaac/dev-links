@@ -55,6 +55,7 @@ Lists of good content in software development, organized by topic
 - [Monolith to Microservices (Sam Newman)](https://samnewman.io/books/monolith-to-microservices/)
 - [Microservice Architecture at Medium (Medium Engineering)](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 - [CAP Theorem, PACELC, and Microservices (Ardalis)](https://ardalis.com/cap-pacelc-and-microservices/)
+- [Microservice Patterns & Antipatterns (Stefan Tilkov)](https://www.youtube.com/watch?v=RsyOkifmamI)
 
 ## Observability
 - [Observability: a 3-Year Retrospective (Charity Majors)](https://thenewstack.io/observability-a-3-year-retrospective/)
