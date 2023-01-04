@@ -47,6 +47,9 @@ Lists of good content in software development, organized by topic
 - [The Big List of Python Packaging and Distribution Tools (Chad Smith)](https://chadsmith.dev/python-packaging/)
 - [Functional vs. OO: The Debate that Imprecise Language Destroyed (Chelsea Troy)](https://chelseatroy.com/2021/02/22/functional-vs-oo-the-debate-that-imprecise-language-destroyed/)
 
+## Leadership
+- [Measuring Engineering Organizations (Will Larson)](https://lethain.com/measuring-engineering-organizations/)
+
 ## Microservices
 - [The Twelve-Factor App (Adam Wiggins, et al.)](https://12factor.net/)
 - [Microservices Guide (Thoughtworks)](https://martinfowler.com/microservices/)
