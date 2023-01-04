@@ -49,6 +49,7 @@ Lists of good content in software development, organized by topic
 
 ## Leadership
 - [Measuring Engineering Organizations (Will Larson)](https://lethain.com/measuring-engineering-organizations/)
+- [Give Away Your Legos and Other Commandments for Scaling Startups (Molly Graham)](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups)
 
 ## Microservices
 - [The Twelve-Factor App (Adam Wiggins, et al.)](https://12factor.net/)
@@ -65,9 +66,6 @@ Lists of good content in software development, organized by topic
 - [Observability: a 3-Year Retrospective (Charity Majors)](https://thenewstack.io/observability-a-3-year-retrospective/)
 - [I Test In Production and So Do You (Charity Majors)](https://www.infoq.com/presentations/testing-production-2018/)
 - [Monitoring and Observability (Cindy Sridharan)](https://copyconstruct.medium.com/monitoring-and-observability-8417d1952e1c)
-
-## Organizations
-- [Give Away Your Legos and Other Commandments for Scaling Startups (Molly Graham)](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups)
 
 ## REST API Design
 - [Web API Design: The Missing Link (Apigee)](https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf)
