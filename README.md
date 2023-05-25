@@ -67,6 +67,9 @@ Lists of good content in software development, organized by topic
 - [I Test In Production and So Do You (Charity Majors)](https://www.infoq.com/presentations/testing-production-2018/)
 - [Monitoring and Observability (Cindy Sridharan)](https://copyconstruct.medium.com/monitoring-and-observability-8417d1952e1c)
 
+## Refactoring
+- [Things You Should Never Do, Part I (Joel Spolsky)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+
 ## REST API Design
 - [Web API Design: The Missing Link (Apigee)](https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf)
 - [Web API design (Microsoft)](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
