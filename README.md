@@ -47,10 +47,6 @@ Lists of good content in software development, organized by topic
 - [The Big List of Python Packaging and Distribution Tools (Chad Smith)](https://chadsmith.dev/python-packaging/)
 - [Functional vs. OO: The Debate that Imprecise Language Destroyed (Chelsea Troy)](https://chelseatroy.com/2021/02/22/functional-vs-oo-the-debate-that-imprecise-language-destroyed/)
 
-## Leadership
-- [Measuring Engineering Organizations (Will Larson)](https://lethain.com/measuring-engineering-organizations/)
-- [Give Away Your Legos and Other Commandments for Scaling Startups (Molly Graham)](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups)
-
 ## Microservices
 - [The Twelve-Factor App (Adam Wiggins, et al.)](https://12factor.net/)
 - [Microservices Guide (Thoughtworks)](https://martinfowler.com/microservices/)
@@ -66,6 +62,11 @@ Lists of good content in software development, organized by topic
 - [Observability: a 3-Year Retrospective (Charity Majors)](https://thenewstack.io/observability-a-3-year-retrospective/)
 - [I Test In Production and So Do You (Charity Majors)](https://www.infoq.com/presentations/testing-production-2018/)
 - [Monitoring and Observability (Cindy Sridharan)](https://copyconstruct.medium.com/monitoring-and-observability-8417d1952e1c)
+
+## Organizations & Teams
+- [Measuring Engineering Organizations (Will Larson)](https://lethain.com/measuring-engineering-organizations/)
+- [Give Away Your Legos and Other Commandments for Scaling Startups (Molly Graham)](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups)
+- [Failed #SquadGoals (Jeremiah Lee)](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 
 ## Refactoring
 - [Things You Should Never Do, Part I (Joel Spolsky)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
