@@ -28,6 +28,10 @@ Lists of good content in software development, organized by topic
 ## Developer Experience
 - [Platform Prerequisites (Martin Fowler)](https://martinfowler.com/articles/platform-prerequisites.html)
 
+## Documentation
+- [Diátaxis](https://diataxis.fr/)
+- [Architecture Decision Records](https://adr.github.io/)
+
 ## Hiring
 - [Hiring: The Lake Wobegon Strategy (Google)](https://ai.googleblog.com/2006/03/hiring-lake-wobegon-strategy.html)
 
