@@ -74,6 +74,7 @@ Lists of good content in software development, organized by topic
 - [Measuring Engineering Organizations (Will Larson)](https://lethain.com/measuring-engineering-organizations/)
 - [Give Away Your Legos and Other Commandments for Scaling Startups (Molly Graham)](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups)
 - [Failed #SquadGoals (Jeremiah Lee)](https://www.jeremiahlee.com/posts/failed-squad-goals/)
+- [The Preventable Problem Paradox (Shreyas Doshi)](https://medium.com/@shreyashere/why-our-leaders-fail-us-and-then-save-us-the-preventable-problem-paradox-872614ec3293)
 
 ## Refactoring
 - [Things You Should Never Do, Part I (Joel Spolsky)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
